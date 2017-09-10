@@ -9,3 +9,14 @@ E:\Repostitory\FizzBuzzSolution\FizzBuzzBusiness\bin\Debug\PagedList.xml
 E:\Repostitory\FizzBuzzSolution\FizzBuzzBusiness\obj\Debug\FizzBuzzBusiness.csprojResolveAssemblyReference.cache
 E:\Repostitory\FizzBuzzSolution\FizzBuzzBusiness\obj\Debug\FizzBuzzBusiness.dll
 E:\Repostitory\FizzBuzzSolution\FizzBuzzBusiness\obj\Debug\FizzBuzzBusiness.pdb
+E:\Repostitory\JenkingDemo\FizzBuzzBusiness\bin\Debug\FizzBuzzBusiness.dll
+E:\Repostitory\JenkingDemo\FizzBuzzBusiness\bin\Debug\FizzBuzzBusiness.pdb
+E:\Repostitory\JenkingDemo\FizzBuzzBusiness\bin\Debug\FizzBuzzBusinessInterfaces.dll
+E:\Repostitory\JenkingDemo\FizzBuzzBusiness\bin\Debug\FizzBuzzCommon.dll
+E:\Repostitory\JenkingDemo\FizzBuzzBusiness\bin\Debug\PagedList.dll
+E:\Repostitory\JenkingDemo\FizzBuzzBusiness\bin\Debug\FizzBuzzBusinessInterfaces.pdb
+E:\Repostitory\JenkingDemo\FizzBuzzBusiness\bin\Debug\FizzBuzzCommon.pdb
+E:\Repostitory\JenkingDemo\FizzBuzzBusiness\bin\Debug\PagedList.xml
+E:\Repostitory\JenkingDemo\FizzBuzzBusiness\obj\Debug\FizzBuzzBusiness.csprojResolveAssemblyReference.cache
+E:\Repostitory\JenkingDemo\FizzBuzzBusiness\obj\Debug\FizzBuzzBusiness.dll
+E:\Repostitory\JenkingDemo\FizzBuzzBusiness\obj\Debug\FizzBuzzBusiness.pdb

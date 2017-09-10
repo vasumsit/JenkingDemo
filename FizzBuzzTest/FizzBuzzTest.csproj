@@ -86,7 +86,6 @@
     <Compile Include="FizzTest.cs" />
     <Compile Include="BuzzTest.cs" />
     <Compile Include="FizzBuzzTest.cs" />
-    <Compile Include="NameOfDayTest.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="app.config" />

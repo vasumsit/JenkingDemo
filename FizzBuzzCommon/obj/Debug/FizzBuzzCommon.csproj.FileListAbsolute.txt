@@ -7,3 +7,12 @@ E:\Repostitory\FizzBuzzSolution\FizzBuzzCommon\bin\Debug\PagedList.Mvc.xml
 E:\Repostitory\FizzBuzzSolution\FizzBuzzCommon\obj\Debug\FizzBuzzCommon.dll
 E:\Repostitory\FizzBuzzSolution\FizzBuzzCommon\obj\Debug\FizzBuzzCommon.pdb
 E:\Repostitory\FizzBuzzSolution\FizzBuzzCommon\obj\Debug\FizzBuzzCommon.csprojResolveAssemblyReference.cache
+E:\Repostitory\JenkingDemo\FizzBuzzCommon\bin\Debug\FizzBuzzCommon.dll
+E:\Repostitory\JenkingDemo\FizzBuzzCommon\bin\Debug\FizzBuzzCommon.pdb
+E:\Repostitory\JenkingDemo\FizzBuzzCommon\bin\Debug\PagedList.dll
+E:\Repostitory\JenkingDemo\FizzBuzzCommon\bin\Debug\PagedList.Mvc.dll
+E:\Repostitory\JenkingDemo\FizzBuzzCommon\bin\Debug\PagedList.xml
+E:\Repostitory\JenkingDemo\FizzBuzzCommon\bin\Debug\PagedList.Mvc.xml
+E:\Repostitory\JenkingDemo\FizzBuzzCommon\obj\Debug\FizzBuzzCommon.csprojResolveAssemblyReference.cache
+E:\Repostitory\JenkingDemo\FizzBuzzCommon\obj\Debug\FizzBuzzCommon.dll
+E:\Repostitory\JenkingDemo\FizzBuzzCommon\obj\Debug\FizzBuzzCommon.pdb

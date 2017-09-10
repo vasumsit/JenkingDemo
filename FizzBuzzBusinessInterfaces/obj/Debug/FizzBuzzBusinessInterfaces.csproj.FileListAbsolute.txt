@@ -7,3 +7,12 @@ E:\Repostitory\FizzBuzzSolution\FizzBuzzBusinessInterfaces\bin\Debug\PagedList.x
 E:\Repostitory\FizzBuzzSolution\FizzBuzzBusinessInterfaces\obj\Debug\FizzBuzzBusinessInterfaces.csprojResolveAssemblyReference.cache
 E:\Repostitory\FizzBuzzSolution\FizzBuzzBusinessInterfaces\obj\Debug\FizzBuzzBusinessInterfaces.dll
 E:\Repostitory\FizzBuzzSolution\FizzBuzzBusinessInterfaces\obj\Debug\FizzBuzzBusinessInterfaces.pdb
+E:\Repostitory\JenkingDemo\FizzBuzzBusinessInterfaces\bin\Debug\FizzBuzzBusinessInterfaces.dll
+E:\Repostitory\JenkingDemo\FizzBuzzBusinessInterfaces\bin\Debug\FizzBuzzBusinessInterfaces.pdb
+E:\Repostitory\JenkingDemo\FizzBuzzBusinessInterfaces\bin\Debug\FizzBuzzCommon.dll
+E:\Repostitory\JenkingDemo\FizzBuzzBusinessInterfaces\bin\Debug\PagedList.dll
+E:\Repostitory\JenkingDemo\FizzBuzzBusinessInterfaces\bin\Debug\FizzBuzzCommon.pdb
+E:\Repostitory\JenkingDemo\FizzBuzzBusinessInterfaces\bin\Debug\PagedList.xml
+E:\Repostitory\JenkingDemo\FizzBuzzBusinessInterfaces\obj\Debug\FizzBuzzBusinessInterfaces.csprojResolveAssemblyReference.cache
+E:\Repostitory\JenkingDemo\FizzBuzzBusinessInterfaces\obj\Debug\FizzBuzzBusinessInterfaces.dll
+E:\Repostitory\JenkingDemo\FizzBuzzBusinessInterfaces\obj\Debug\FizzBuzzBusinessInterfaces.pdb

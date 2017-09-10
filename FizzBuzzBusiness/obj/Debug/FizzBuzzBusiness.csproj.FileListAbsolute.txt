@@ -1,0 +1,11 @@
+E:\Repostitory\FizzBuzzSolution\FizzBuzzBusiness\bin\Debug\FizzBuzzBusiness.dll
+E:\Repostitory\FizzBuzzSolution\FizzBuzzBusiness\bin\Debug\FizzBuzzBusiness.pdb
+E:\Repostitory\FizzBuzzSolution\FizzBuzzBusiness\bin\Debug\FizzBuzzBusinessInterfaces.dll
+E:\Repostitory\FizzBuzzSolution\FizzBuzzBusiness\bin\Debug\FizzBuzzCommon.dll
+E:\Repostitory\FizzBuzzSolution\FizzBuzzBusiness\bin\Debug\PagedList.dll
+E:\Repostitory\FizzBuzzSolution\FizzBuzzBusiness\bin\Debug\FizzBuzzBusinessInterfaces.pdb
+E:\Repostitory\FizzBuzzSolution\FizzBuzzBusiness\bin\Debug\FizzBuzzCommon.pdb
+E:\Repostitory\FizzBuzzSolution\FizzBuzzBusiness\bin\Debug\PagedList.xml
+E:\Repostitory\FizzBuzzSolution\FizzBuzzBusiness\obj\Debug\FizzBuzzBusiness.csprojResolveAssemblyReference.cache
+E:\Repostitory\FizzBuzzSolution\FizzBuzzBusiness\obj\Debug\FizzBuzzBusiness.dll
+E:\Repostitory\FizzBuzzSolution\FizzBuzzBusiness\obj\Debug\FizzBuzzBusiness.pdb

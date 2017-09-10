@@ -1,0 +1,58 @@
+﻿@model FizzBuzzCommon.Models.FizzBuzzModel
+@using FizzBuzzCommon.Models
+@using FizzBuzzWeb
+@using PagedList.Mvc;
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>FizzBuzzForm Test</title>
+    <link href="~/Content/PagedList.css" rel="stylesheet" />
+    <h4>Fizz Buzz Results</h4>
+</head>
+<body>
+
+    @using (Html.BeginForm("FizzBuzzForm", "FizzBuzz"))
+    {
+        <fieldset>
+            <legend>Please Enter Value</legend>
+
+            <div class="editor-label">
+                @Html.EditorFor(m => m.InputValue)
+            </div>
+
+            @Html.ValidationMessageFor(x => x.InputValue)
+            <p>
+                <input type="submit" value="submit" id="btnSubmit" />
+            </p>
+        </fieldset>
+    }
+    <div id="divResult">
+        @if (Model != null && Model.Numbers != null)
+        {
+            foreach (var Diplay in Model.Numbers)
+            {
+                if (!string.IsNullOrEmpty(Diplay.InputNumber))
+                {
+            <span>@Diplay.InputNumber</span> 
+                }
+                else
+                {
+            @FizzBuzzHelper.DivisibleResult(Diplay.Number);
+                }
+            <br />
+            }
+            @Html.PagedListPager(Model.Numbers, page => Url.Action("FizzBuzzForm", new { page, Model.InputValue })) 
+        }
+
+    </div>
+    <link href="../../Content/FizzBuzzStyles.css" rel="stylesheet" type="text/css" />
+
+
+
+</body>
+</html>
+
+
